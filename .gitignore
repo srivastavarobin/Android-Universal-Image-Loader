@@ -8,7 +8,6 @@ local.properties
 
 # Maven
 target/
-pom.xml.*
 release.properties
 
 # Eclipse
@@ -17,7 +16,6 @@ release.properties
 .externalToolBuilders/
 
 # IntelliJ
-*.iml
 *.ipr
 *.iws
 .idea/
